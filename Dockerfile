@@ -2,7 +2,7 @@ FROM tomcat:9.0
 
 
 
-ADD **/*.wat /usr/local/tomcat/webapps
+ADD **/*.war /usr/local/tomcat/webapps
 
 
 EXPOSE 8087
