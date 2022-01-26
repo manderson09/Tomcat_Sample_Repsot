@@ -1,5 +1,7 @@
 # java-tomcat-maven-example
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/37743e61-b18a-4835-81cc-1cb59f11471e.svg?orgId=646349530171)](https://app.soluble.cloud/repos/details/github.com/manderson09/tomcat_sample_repsot?orgId=646349530171)  
+
 This is an example ready-to-deploy java web application built for Tomcat using Maven and webapp-runner.
 
 ## Running Locally
